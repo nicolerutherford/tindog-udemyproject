@@ -1,0 +1,190 @@
+#title {background-color: #ff4c68;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {font-family: 'Montserrat-Bold';
+}
+
+
+h1 {
+line-height: 1.5;
+font-weight: 900;
+font-size: 8em;}
+
+h2 {font-weight: 500 bold;}
+
+.white-section {
+  background-color: #fff;
+  color: black;
+}
+
+.pink-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+
+
+#brand { font-weight: 500;
+font-size: 2em;
+padding-bottom: 10px;
+margin-left: 40px; }
+
+
+
+#title.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  font-weight: bolder;
+}
+
+/* Nav */
+.nav-itema a:hover {
+  color: pink;
+}
+
+
+nav a{ color: white;
+  font-size: 1.5em;}
+
+.navbar { margin-bottom: 3em;}
+
+.navbar-brand { font-size:3.5em;
+  font-family:'Ubuntu';
+  font-weight: bold;
+  padding: 5px 15px 5px 15px;
+
+}
+  .nav-link {
+    margin-left: 55px;
+  }
+ }
+  .nav-item {
+    padding: 0 18px;
+    margin-bottom: 5px;
+  }
+
+/* Title */
+
+  .download-button {
+    margin: 5% 3% 5% 0;
+
+  }
+
+
+.title-image {width: 60%;
+transform: rotate(25deg);
+position: absolute;
+right: 20%;
+}
+
+/* features */
+
+#features { padding: 7% 10%;
+  position: relative;
+  background-color: #fff;
+
+  }
+
+
+
+.feature-box { padding: 20px;
+
+
+}
+.feature-title {
+  font-size: 1.5rem;
+}
+}
+
+p { color: grey;}
+
+.icon {color: #ef8172;
+  margin-bottom: 10px;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* testimonials */
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  padding: 7% 15%;
+}
+
+.testimonial-image { width: 20%;
+border-radius: 100%;
+margin: 20px;}
+
+.testimonial-text {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#press {background-color: #ef8172;
+text-align: center;
+padding-bottom: 3%;}
+
+.press-image {
+  width: 15%;
+  margin: 20px 20px 20px 50px;
+}
+
+.container-fluid {
+padding: 2% 10%;
+}
+
+/* pricing */
+
+#pricing {padding: 100px;
+  text-align: center;}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+
+/* cta section */
+
+
+#cta {
+  text-align: center;
+  padding: 5%;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+
+/* footer section */
+
+#footer {
+  text-align: center;
+
+}
+
+.social-icon {margin: 30px 30px;}
+
+/* media queries */
+
+@media (max-width: 1028px){
+#mainpic {
+position: static;
+transform: rotate(0);
+}
+
+.row {
+  text-align: center;
+  }}
